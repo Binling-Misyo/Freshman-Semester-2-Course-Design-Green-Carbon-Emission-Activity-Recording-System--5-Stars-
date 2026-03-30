@@ -1,0 +1,16 @@
+﻿  ReportGenerator.cpp
+  ReportGenerator.h
+C:\Users\Administrator\Desktop\CarbonCtrlopen\ReportGenerator.cpp(157,10): warning C4244: “初始化”: 从“_Ty2”转换到“int”，可能丢失数据
+C:\Users\Administrator\Desktop\CarbonCtrlopen\ReportGenerator.cpp(157,10): warning C4244:         with
+C:\Users\Administrator\Desktop\CarbonCtrlopen\ReportGenerator.cpp(157,10): warning C4244:         [
+C:\Users\Administrator\Desktop\CarbonCtrlopen\ReportGenerator.cpp(157,10): warning C4244:             _Ty2=double
+C:\Users\Administrator\Desktop\CarbonCtrlopen\ReportGenerator.cpp(157,10): warning C4244:         ]
+  CarbonActivity.cpp
+  FileTool.cpp
+  main.cpp
+  otherfun.cpp
+  ThisSystem.cpp
+  user.cpp
+  正在生成代码...
+Project3\x64\Debug\ReportGenerator.obj : warning LNK4042: 对象被多次指定；已忽略多余的指定
+  Project3.vcxproj -> C:\Users\Administrator\Desktop\CarbonCtrlopen\x64\Debug\Project3.exe
